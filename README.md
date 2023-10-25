@@ -10,13 +10,12 @@
 
 ## Tester avec Postman
 
-Vous pouvez tester l'ajout et le chargement de données en utilisant Postman. Importez la collection Postman fournie dans le répertoire "postman" du projet.
+Nous pouvons tester l'ajout et le chargement de données en utilisant Postman. 
 ![Capture d’écran (155)](https://github.com/Nouhaila25/G-olocalisation/assets/116907282/ffc6993e-6505-4bdf-80a1-a40e5296306d)
 ![Capture d’écran (154)](https://github.com/Nouhaila25/G-olocalisation/assets/116907282/9362e325-cc43-403d-8d5f-943bac3e4f79)
 
 ## Interfaces
 
-Inclut des captures d'écran des interfaces utilisateur principales pour montrer comment interagir avec l'application.
 
 1. **Interface 1 : Page d'accueil**  
    ![Capture d’écran (152)](https://github.com/Nouhaila25/G-olocalisation/assets/116907282/8b536212-c771-45bf-92ba-133c96bae881)
